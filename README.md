@@ -12,8 +12,7 @@ Issue Submission Guidelines:
 > If it's any other bug, provide a good description of what you done before it happened (If you can do
 that, a video would also be nice). This step is very important.
 > Please use English language when reporting bugs. Even though I speak German too, it can be helpful to
-others who have the same issue and are trying to solve it, but don't speak German. This is also
-important if you look at the next line.
+others who have the same issue and are trying to solve it, but don't speak German.
 > Please check if your issue has already been reported earlier. That's what search functions are for.
 
 Please make sure the bug you report can be reproduced in a clean install of the modpack,
